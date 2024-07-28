@@ -12,7 +12,7 @@ Here we have project screenshot :
 ![screenshot](image1.png)
 
 Raw Image:-
-![screenshot](image.jpg)
+![screenshot](lake-forest-mountains-illustration-4k-fv.jpg)
 
 # Features:
 Modern Design: Sleek and visually appealing design for a professional look.
